@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-toasted-notifications/static/css/main.9be2cec1.chunk.css",
+    "main.js": "/react-toasted-notifications/static/js/main.140abc9c.chunk.js",
+    "main.js.map": "/react-toasted-notifications/static/js/main.140abc9c.chunk.js.map",
+    "runtime-main.js": "/react-toasted-notifications/static/js/runtime-main.e96056c7.js",
+    "runtime-main.js.map": "/react-toasted-notifications/static/js/runtime-main.e96056c7.js.map",
+    "static/js/2.6c229765.chunk.js": "/react-toasted-notifications/static/js/2.6c229765.chunk.js",
+    "static/js/2.6c229765.chunk.js.map": "/react-toasted-notifications/static/js/2.6c229765.chunk.js.map",
+    "index.html": "/react-toasted-notifications/index.html",
+    "static/css/main.9be2cec1.chunk.css.map": "/react-toasted-notifications/static/css/main.9be2cec1.chunk.css.map",
+    "static/js/2.6c229765.chunk.js.LICENSE.txt": "/react-toasted-notifications/static/js/2.6c229765.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e96056c7.js",
+    "static/js/2.6c229765.chunk.js",
+    "static/css/main.9be2cec1.chunk.css",
+    "static/js/main.140abc9c.chunk.js"
+  ]
+}

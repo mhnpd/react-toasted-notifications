@@ -1,0 +1,11 @@
+.App {
+  display        : flex;
+  flex-direction : column;
+  justify-content: center;
+  margin-top     : 100px;
+}
+
+.form_wrapper {
+  width: 30%;
+  align-self: start;
+}
