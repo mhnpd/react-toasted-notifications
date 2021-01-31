@@ -7,6 +7,9 @@
   "jsdelivr": "dist/index.js",
   "scripts": {
     "build": "babel src -d dist",
+    "release:major": "npm version major",
+    "release:minor": "npm version minor",
+    "release:patch": "npm version patch",
     "release:beta": "npm version prerelease && npm run build && npm publish --tag beta",
     "start": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
