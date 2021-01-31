@@ -1,7 +1,7 @@
 {
   "name": "react-toasted-notifications",
   "version": "1.1.2",
-  "description": "",
+  "description": "React toasted notification using hook.",
   "main": "dist/index.js",
   "unpkg": "dist/index.js",
   "jsdelivr": "dist/index.js",
@@ -44,8 +44,16 @@
     "url": "https://mohanpd.com.np"
   },
   "bugs": {
-    "url": "https://github.com/mhnpd/repo"
+    "url": "https://github.com/mhnpd/react-toasted-notifications/issues"
   },
-  "homepage": "https://mhnpd.github.io/repo/",
-  "keywords": []
+  "homepage": "https://mhnpd.github.io/react-toasted-notifications/",
+  "keywords": [
+    "react",
+    "react-hook",
+    "hook-base-notification",
+    "toast-notifications",
+    "react-toastify",
+    "rc-notification",
+    "material-react-toastify"
+  ]
 }

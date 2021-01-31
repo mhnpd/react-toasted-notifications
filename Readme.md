@@ -2,6 +2,8 @@
   <img align="center width="300" height="300" src="./logo/logo2.png">
 </div>
 
+React toasted notification using hook.
+
 ## Installation:
 
 ```shell
