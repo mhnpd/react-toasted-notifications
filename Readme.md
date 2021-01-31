@@ -85,8 +85,8 @@ colors: {
 
 | key     | value    | Options                                           |
 | ------- | -------- | ------------------------------------------------- |
-| title   | String   |                                                   |
-| message | String   |                                                   |
+| title   | String   | ""                                                |
+| message | String   | ""                                                |
 | type    | String   | possible options: `info, success, error, success` |
 | timeout | Number   | default: 5000                                     |
 | OnClose | function | function when notification is removed             |
