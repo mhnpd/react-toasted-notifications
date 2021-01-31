@@ -55,7 +55,7 @@ export const Implementation = (props) => {
 };
 ```
 
-## List of the props global `Notification` component.
+### List of the props global `Notification` component.
 
 | prop     | default     | type   | function                              |
 | -------- | ----------- | ------ | ------------------------------------- |
@@ -67,7 +67,7 @@ export const Implementation = (props) => {
 | bottom   | undefined   | String | Padding bottom                        |
 | top      | undefined   | String | Padding top                           |
 
----
+<hr/>
 
 - Possible value for position: `topRight, bottomRight, topLeft, bottomLeft`
 - default color object:
@@ -85,8 +85,8 @@ colors: {
 
 | key     | value    | Options                                           |
 | ------- | -------- | ------------------------------------------------- |
-| title   | String   | ""                                                |
-| message | String   | ""                                                |
+| title   | String   | " "                                               |
+| message | String   | " "                                               |
 | type    | String   | possible options: `info, success, error, success` |
 | timeout | Number   | default: 5000                                     |
 | OnClose | function | function when notification is removed             |
