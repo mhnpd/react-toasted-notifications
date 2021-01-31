@@ -37,7 +37,7 @@ import { useNotification } from "../src/";
 // rest of the import
 
 export const Implementation = (props) => {
-  const [Message, action] = useNotification();
+  const [, action] = useNotification();
 
   const handleNotification = () => {
     action.addNotification({
