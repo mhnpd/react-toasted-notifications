@@ -1,11 +1,11 @@
 ![Node.js Package](https://github.com/mhnpd/react-toasted-notifications/workflows/Node.js%20Package/badge.svg)
-![release](https://badgen.net/github/release/mhnpd/react-loader-spinner)
-![tag](https://badgen.net/github/tag/mhnpd/react-loader-spinner)
-![stars](https://badgen.net/github/stars/mhnpd/react-loader-spinner)
-![issue](https://badgen.net/github/issues/mhnpd/react-loader-spinner)
-![open-issues](https://badgen.net/github/open-issues/mhnpd/react-loader-spinner)
-![commits](https://badgen.net/github/commits/mhnpd/react-loader-spinner)
-![commits](https://badgen.net/github/assets-dl/mhnpd/react-loader-spinner)
+![release](https://badgen.net/github/release/mhnpd/react-toasted-notifications)
+![tag](https://badgen.net/github/tag/mhnpd/react-toasted-notifications)
+![stars](https://badgen.net/github/stars/mhnpd/react-toasted-notifications)
+![issue](https://badgen.net/github/issues/mhnpd/react-toasted-notifications)
+![open-issues](https://badgen.net/github/open-issues/mhnpd/react-toasted-notifications)
+![commits](https://badgen.net/github/commits/mhnpd/react-toasted-notifications)
+![commits](https://badgen.net/github/assets-dl/mhnpd/react-toasted-notifications)
 
 <div width="100%" align="center">
   <img align="center width="300" height="300" src="./logo/logo2.png">
