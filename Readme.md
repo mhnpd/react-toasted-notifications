@@ -1,3 +1,5 @@
+![Node.js Package](https://github.com/mhnpd/react-toasted-notifications/workflows/Node.js%20Package/badge.svg)
+
 <div width="100%" align="center">
   <img align="center width="300" height="300" src="./logo/logo2.png">
 </div>
