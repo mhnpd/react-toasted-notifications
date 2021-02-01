@@ -25,8 +25,10 @@ function App() {
 
   return (
     <div className="App container card p-5">
+      <div style={{ textAlign: "center" }} className="mb-5">
+        <h2>React Toasted Notifications</h2>
+      </div>
       <h3> Settings</h3>
-      <hr />
       <div className="row mt-3">
         <div className="col">
           <div className="form-group">
@@ -62,7 +64,7 @@ function App() {
         </div>
       </div>
       <hr />
-      
+
       <div>
         <button onClick={handleClickButton} className="btn btn-primary ml-2">
           Show Notification
