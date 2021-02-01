@@ -55,7 +55,7 @@ export const Implementation = (props) => {
 };
 ```
 
-### List of the props global `Notification` component.
+### List of the props for global `Notification` component.
 
 | prop     | default     | type   | function                              |
 | -------- | ----------- | ------ | ------------------------------------- |
